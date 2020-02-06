@@ -2,11 +2,11 @@
 #include <iostream>
 #include <time.h>
 #include <stdlib.h>
-#include<stdio.h>
+#include <stdio.h>
 #include <string>
 #include <algorithm>
 #include <iomanip>
-#include<iterator>
+#include <iterator>
 #define TOO_LOW     case 0: \
                     case 1: \
                     case 2: \
