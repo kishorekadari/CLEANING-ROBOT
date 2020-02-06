@@ -15,6 +15,7 @@
                     case 12: \
                     case 13: \
                     case 14:
+					
 #define M 16  //// Maze size 
 using namespace std;
 time_t t;
